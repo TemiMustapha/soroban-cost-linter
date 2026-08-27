@@ -1,2 +1,0 @@
-[budget]
-lints = { "soroban_storage_in_loop" = "deny" }

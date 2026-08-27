@@ -1,8 +1,0 @@
-/target
-node_modules/
-package-lock.json
-tests/corpus/contracts/*/target
-tests/corpus/contracts/*/Cargo.lock
-tests/cli_integration_workspace/target/
-*.rcgu.o
-/module.rs
